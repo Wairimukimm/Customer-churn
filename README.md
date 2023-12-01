@@ -1,4 +1,6 @@
 # Customer-churn
+![Uploading image.png…]()
+
 
 ## Overview
 This project consist of supervised machine learning. It makes use of classification algorithms to predict the likelihood of a customer to churn in the banking industry
