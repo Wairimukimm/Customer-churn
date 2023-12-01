@@ -1,5 +1,7 @@
 # Customer-churn
-![Uploading image.png…]()
+![image](https://github.com/Wairimukimm/Customer-churn/assets/122815372/919e394d-e96a-41e6-badb-e5739e32aa7d)
+
+
 
 
 ## Overview
