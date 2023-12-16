@@ -16,7 +16,7 @@ The dataset used here is approriate as it contains binary outcomes, that is 0 an
 ## Problem Statement
 Banks have a hard time to retain customers due to challenges such as different pricing strategies. Retaining customers is very crucial because it is cheaper than trying to acquire new ones. Their concern is trying to identify customers who are about to churn. The current lack of a model that can classify customers can result to losses. To address the challenges , I aim to develop a model that can predict the likelihood of user churn in the near future. This will help the bank come up with specific targeted strategies to minimize customer churn and hence enhance their relationships with a customer hence continue making profits
 ## Components
-* The [Jupyter Notebook](https://github.com/Wairimukimm/Customer-churn/blob/main/Untitled.ipynb) is the main deliverable. It contains the details of the approach taken and the methodology. It contains data cleaning, exploratory data analysis, data preparation for modelling and building the classification models.
+* The [Jupyter Notebook](https://github.com/Wairimukimm/Customer-churn/blob/main/Notebook.ipynb) is the main deliverable. It contains the details of the approach taken and the methodology. It contains data cleaning, exploratory data analysis, data preparation for modelling and building the classification models.
 
 * The [Presentation](https://github.com/Wairimukimm/Customer-churn/blob/main/presentation.pdf) is the non technical Presentation of the project. It contains the objectives, problem statment, model evaluation, findings and recommendations.
 
